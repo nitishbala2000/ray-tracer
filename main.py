@@ -12,7 +12,7 @@ scene.add_object(Sphere(centre=[.75, .1, 1.],
                         colour=[0., 0., 1.],
                         diffuse_c=1.0,
                         specular_c=1.0,
-                        specular_k=50,
+                        specular_k=100,
                         reflection=0.5))
 
 scene.add_object(Sphere(centre=[-.75, .1, 2.25],
@@ -20,7 +20,7 @@ scene.add_object(Sphere(centre=[-.75, .1, 2.25],
                         colour=[0.5, 0.223, 0.5],
                         diffuse_c=1.0,
                         specular_c=1.0,
-                        specular_k=50,
+                        specular_k=100,
                         reflection=0.5))
 
 
@@ -29,7 +29,7 @@ scene.add_object(Sphere(centre=[.75, .1, 1.],
                         colour=[0., 0., 1.],
                         diffuse_c=1.0,
                         specular_c=1.0,
-                        specular_k=50,
+                        specular_k=100,
                         reflection=0.5))
 
 scene.add_object(Sphere(centre=[-2.75, 0.1, 3.5],
@@ -37,7 +37,7 @@ scene.add_object(Sphere(centre=[-2.75, 0.1, 3.5],
                         colour=[1.0, 0.572, 0.184],
                         diffuse_c=1.0,
                         specular_c=1.0,
-                        specular_k=50,
+                        specular_k=100,
                         reflection=0.5))
 
 
